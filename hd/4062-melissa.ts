@@ -17,7 +17,7 @@
 00:01:06:040 take  4 good              
 00:01:09:440 take  4 bad               
 00:01:18:040 win   4                   
-00:01:21:840 win   4 youlose                  
+00:01:21:840 win   4 youlose           
 00:01:27:640 lose  4                   
 00:01:33:040 lose  4 youwin            
 00:01:38:040 show  4 cards             
@@ -175,7 +175,7 @@
 00:13:04:760 take  1         zoom      
 00:13:08:560 win   1         zoom      
 00:13:13:440 win   1         zoom      
-00:13:18:040 drop  1         zoom      
+00:13:18:040 lose  1         zoom      
 00:13:23:000 drop  1         zoom      
 00:13:27:040 show  1 cards   zoom      
 00:13:30:840 show  1 high    zoom      
