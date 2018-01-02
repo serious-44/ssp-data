@@ -1,8 +1,10 @@
 #preview-url:http://strippokerhd.com/galeria/4049/foto/3194.jpg
 #preview-crop:804,0,590,440
-00:00:00:000 take  4 good         quiet
+00:00:00:000 -     4             
+00:00:00:040 take  4 good         quiet
 00:00:03:000 win   4              quiet
-00:00:06:760 win   4              quiet
+00:00:06:080 -     4
+00:00:08:080 win   4              quiet
 00:00:09:760 drop  4              quiet
 00:00:12:520 drop  4              quiet
 00:00:15:680 take  4              quiet
